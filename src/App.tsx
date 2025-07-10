@@ -56,7 +56,7 @@ export default function Home() {
         <section style={{ padding: '4rem 1rem', background: '#fff0f0' }}>
           <h2>Community Impact</h2>
           <p>Change comes from the ground up — connect with others who care...</p>
-          <p>Click <a href="https://zerowasteeurope.eu/">HERE</a> to visit a better website.</p>
+          <p>Click <a href="https://zerowasteeurope.eu/">HERE2</a> to visit a better website.</p>
 
           <button className="cta-button" onClick={handleButtonClick}>Learn More</button>
         </section>
