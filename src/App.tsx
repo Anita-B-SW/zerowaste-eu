@@ -23,6 +23,8 @@ export default function Home() {
         <section style={{ padding: '4rem 1rem', background: '#f7f7f7' }}>
           <h2>Why Zero Waste?</h2>
           <p>Zero waste is more than recycling — it's about rethinking our systems...</p>
+          <p>Click <a href="https://zerowasteeurope.eu/">HERE</a> to visit a better website.</p>
+
           <button className="cta-button" onClick={handleButtonClick}>Learn More</button>
         </section>
 
@@ -54,6 +56,8 @@ export default function Home() {
         <section style={{ padding: '4rem 1rem', background: '#fff0f0' }}>
           <h2>Community Impact</h2>
           <p>Change comes from the ground up — connect with others who care...</p>
+          <p>Click <a href="https://zerowasteeurope.eu/">HERE</a> to visit a better website.</p>
+
           <button className="cta-button" onClick={handleButtonClick}>Learn More</button>
         </section>
       </main>
